@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "license": "UNLICENSED",
   "scripts": {
-    "build": "parcel build index.html _redirects",
+    "build": "parcel build index.html",
     "dev": "parcel serve index.html"
   },
   "devDependencies": {
