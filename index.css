@@ -18,3 +18,7 @@ main {
   text-align: center;
   margin-top: 0.25em;
 }
+
+a {
+  color: rgb(241, 38, 225);
+}
